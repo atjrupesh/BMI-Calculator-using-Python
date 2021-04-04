@@ -41,16 +41,7 @@ e.g. When you hit **run**, this is what should happen:
 3. Remember PEMDAS.
 4. Remember to convert your result to a whole number (int). 
 
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-2-2-test-your-code](https://repl.it/@appbrewery/day-2-2-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
 
 
 
-# Solution
 
-[https://repl.it/@appbrewery/day-2-2-solution](https://repl.it/@appbrewery/day-2-2-solution)
